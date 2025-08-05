@@ -2,4 +2,9 @@
   "repository_owner": "Highl1te",
   "repository_name": "Plugins",
   "asset_sha": "sha256:44054a5130378c5ecad90a586f7180d500d01ef860dab989df2b7814f7448e9b"
+
+
+  "display_name": "Experience Tracker",
+  "display_author": "Highl1te",
+  "display_description": "This is an example description of a plugin"
 }
