@@ -18,13 +18,18 @@ jobs:
         id: timestamp
         run: echo "tag=$(date -u +'%Y%m%d%H%M%S')" >> "$GITHUB_OUTPUT"
 
-      - name: Combine plugin JSON files into manifest
+      - name: Combine plugin JSON files into flat array manifest
         run: |
           mkdir -p dist
           echo '[]' > dist/manifest.json
-          for file in plugins/**/*.json; do
-            jq -s '.[0]' "$file" | jq --slurpfile manifest dist/manifest.json '$manifest[0] + [.]' > dist/tmp.json
-            mv dist/tmp.json dist/manifest.json
+      
+          find plugins -type f -name '*.json' | while read file; do
+            if jq -e . "$file" >/dev/null 2>&1; then
+              tmp=$(mktemp)
+              jq -s '.[0]' "$file" | jq --slurpfile manifest dist/manifest.json '$manifest[0] + [.]' > "$tmp" && mv "$tmp" dist/manifest.json
+            else
+              echo "⚠️ Skipping invalid JSON: $file"
+            fi
           done
 
       - name: Create GitHub Release and Upload manifest
