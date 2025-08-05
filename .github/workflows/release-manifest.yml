@@ -1,0 +1,38 @@
+name: Generate & Release Plugin Manifest
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-manifest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Generate UTC timestamp
+        id: timestamp
+        run: echo "tag=$(date -u +'%Y%m%d%H%M%S')" >> "$GITHUB_OUTPUT"
+
+      - name: Combine plugin JSON files into manifest
+        run: |
+          mkdir -p dist
+          echo '[]' > dist/manifest.json
+          for file in plugins/**/*.json; do
+            jq -s '.[0]' "$file" | jq --slurpfile manifest dist/manifest.json '$manifest[0] + [.]' > dist/tmp.json
+            mv dist/tmp.json dist/manifest.json
+          done
+
+      - name: Create GitHub Release and Upload manifest
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.timestamp.outputs.tag }}
+          name: ${{ steps.timestamp.outputs.tag }}
+          files: dist/manifest.json
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
