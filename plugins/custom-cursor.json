@@ -1,5 +1,8 @@
 {
     "repository_owner": "Ralane",
     "repository_name": "CustomCursor",
-    "asset_sha": "sha256:2b54afcf4c678fb5458357c057412819dba885712fa0c50576ec535800c02c63"
+    "asset_sha": "sha256:2b54afcf4c678fb5458357c057412819dba885712fa0c50576ec535800c02c63",
+    "display_name": "Custom Cursors",
+    "display_author": "0rangeYouGlad",
+    "display_description":"Fancy new cursors, with presets using Highspell icons"
 }
