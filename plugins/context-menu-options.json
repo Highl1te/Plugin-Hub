@@ -2,4 +2,7 @@
   "repository_owner": "Highl1te",
   "repository_name": "Plugins",
   "asset_sha": "sha256:561507acc3570fbd71dfbe6205a58a5f44cbb3a58a2392728db95d8c4083b7be"
+  "display_name": "Context Menu Options",
+  "display_author": "Highl1te",
+  "display_description": "This is an example description of a plugin"
 }
