@@ -1,8 +1,8 @@
 {
     "repository_owner": "Ralane",
     "repository_name": "HighliteBankTabs",
-    "asset_sha": "sha256:91801e829c08c47fb0ff98b3e6391fbc86041f0ebb2e2e94fae72e063d9416a7",
+    "asset_sha": "sha256:f4f706c47a6e294cd6ab4eb133e2edfee8d58f258fa57585a6a01fd33018e58a",
     "display_name": "Improved Skill Guide",
     "display_author": "0rangeYouGlad",
-    "display_description":"Improved Skill Guides (currently WIP, not all skills are supported)"
+    "display_description":"Improved Skill Guides that show recipes, facilities, tools, XP, and other notes (thanks to JustATextBox and RealSizzler for the help!)"
 }
