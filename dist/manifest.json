@@ -1,0 +1,160 @@
+[
+  {
+    "repository_owner": "valsekamerplant",
+    "repository_name": "extra_info_bar",
+    "asset_sha": "sha256:5bd6c086b1282b47adf0faff836c7fab88a6034061dec3bf4c841b6a2516a4b5"
+  },
+  {
+    "repository_owner": "SoggyPiggy",
+    "repository_name": "Highlite-Spell-Tooltips-Plugin",
+    "asset_sha": "sha256:55a6c81fb903e9e525e8daa7e70a67ab278c269c9ffe095c55cfcc99fa1e27cf"
+  },
+  {
+    "repository_owner": "Highl1te",
+    "repository_name": "Plugins",
+    "asset_sha": "sha256:aae1b78d52713ba87d71984ce32f3bb1331e9e4c76a5a11cca369454e8fecec3"
+  },
+  {
+    "repository_owner": "CodyBrunson",
+    "repository_name": "definitions-panel",
+    "asset_sha": "sha256:171218e384a1d9c1e191ba33e6dcaa462d4c99aa928236f9c60ed6d4f734795c"
+  },
+  {
+    "repository_owner": "Highl1te",
+    "repository_name": "Plugins",
+    "asset_sha": "sha256:de3c1b4ed3ed02bb606183e965280f7ef2fc309893aa8057a8829e0c0e8dc294"
+  },
+  {
+    "repository_owner": "CodyBrunson",
+    "repository_name": "Entity-Highlighter",
+    "asset_sha": "sha256:e10f69b37448d70410c05f5fb25e7933852b89028ddaf4aec94a524330a572b2"
+  },
+  {
+    "repository_owner": "CodyBrunson",
+    "repository_name": "minimap-icons",
+    "asset_sha": "sha256:d51241cf72c6c3eaafc5914556308135a7a9c913c53d891d36b6eb51a41bf73a"
+  },
+  {
+    "repository_owner": "CodyBrunson",
+    "repository_name": "enhanced-hp-bars",
+    "asset_sha": "sha256:5326f2fcc7361b5e54e1abbd0c38e413659e65ec75a109d22f1f16f655bdf01f"
+  },
+  {
+    "repository_owner": "CodyBrunson",
+    "repository_name": "xp-orb",
+    "asset_sha": "sha256:1090f3622f838a458e26688c34bf5cde52d035c807b280fbbb8f1f0139bd5a64"
+  },
+  {
+    "repository_owner": "CodyBrunson",
+    "repository_name": "Chat-Item-Tooltip",
+    "asset_sha": "sha256:9ecc706dbe19d3a7785ef5f736a92c794a7abe74ad1dd3783242de655be6277a"
+  },
+  {
+    "repository_owner": "Highl1te",
+    "repository_name": "Plugins",
+    "asset_sha": "sha256:561507acc3570fbd71dfbe6205a58a5f44cbb3a58a2392728db95d8c4083b7be"
+  },
+  {
+    "repository_owner": "Oatelaus",
+    "repository_name": "highspell-treasure-map-helper",
+    "asset_sha": "sha256:521a27acea6f8bc409db4ae0a896cbb556833c77340f94dbcea816ed3cd5ff1a"
+  },
+  {
+    "repository_owner": "Highl1te",
+    "repository_name": "Plugins",
+    "asset_sha": "sha256:33daf201d476c20daa8c106e2ed98ec04c0bf60a691aa0e479ada51a63344ad5"
+  },
+  {
+    "repository_owner": "Ralane",
+    "repository_name": "CustomCursor",
+    "asset_sha": "sha256:2b54afcf4c678fb5458357c057412819dba885712fa0c50576ec535800c02c63"
+  },
+  {
+    "repository_owner": "CodyBrunson",
+    "repository_name": "ChatEnhancer",
+    "asset_sha": "sha256:ee1f9cfcc87fdd62087f2d389fa977cfa39c804ec52bd9ffe2177bf024e0ac33"
+  },
+  {
+    "repository_owner": "CodyBrunson",
+    "repository_name": "minimap-markers",
+    "asset_sha": "sha256:6f5f601ef174a0b1a508933dda911d73d17ae7cf6f00420f79502f5bcf97619e"
+  },
+  {
+    "repository_owner": "Highl1te",
+    "repository_name": "Plugins",
+    "asset_sha": "sha256:44054a5130378c5ecad90a586f7180d500d01ef860dab989df2b7814f7448e9b",
+    "display_name": "Experience Tracker",
+    "display_author": "Highl1te",
+    "display_description": "This is an example description of a plugin"
+  },
+  {
+    "repository_owner": "CodyBrunson",
+    "repository_name": "Idle-Alert",
+    "asset_sha": "sha256:ef35d903b1932a4dd0d2fd6e860799064dfac19fc82e2a26eb09f4ed471d813f"
+  },
+  {
+    "repository_owner": "Highl1te",
+    "repository_name": "Plugins",
+    "asset_sha": "sha256:78455575f29b38c9bad583fb4725ea0f2bdde8fa5e44b5f467981d598aad5770"
+  },
+  {
+    "repository_owner": "SoggyPiggy",
+    "repository_name": "Highlite-Stat-Bars-Plugin",
+    "asset_sha": "sha256:36f71e333f82a54ebdcfe3fa9faff1d8492a27c99cd43e1f0298e1cc685044b4"
+  },
+  {
+    "repository_owner": "Ralane",
+    "repository_name": "PlayerTags",
+    "asset_sha": "sha256:296b22b9adf584ec7ee506c9002ead9264602a35ac68d81d1c2d21d0e5b2a674"
+  },
+  {
+    "repository_owner": "Ralane",
+    "repository_name": "HighliteBankTabs",
+    "asset_sha": "sha256:52002995bd8d09cd043109fef8d4349295bab2f07ce0adc5373ff291810931b8"
+  },
+  {
+    "repository_owner": "Highl1te",
+    "repository_name": "Plugins",
+    "asset_sha": "sha256:becf9281f4d2c94838c78fb8bd50e4177251429df38bea2905aee571da2e026e"
+  },
+  {
+    "repository_owner": "valsekamerplant",
+    "repository_name": "inventory_tooltips",
+    "asset_sha": "sha256:b1c0afaf206933b1599746dbe233ac10610cf645ba139abf3818389b244420d8"
+  },
+  {
+    "repository_owner": "CodyBrunson",
+    "repository_name": "Current-Status",
+    "asset_sha": "sha256:ff0ac771136674ec14625e39143fb237449c4c15b6f72176f80c5895103b8ff7"
+  },
+  {
+    "repository_owner": "BakaZora",
+    "repository_name": "Highlite-Plugin-Coin-Counter",
+    "asset_sha": "sha256:24638517e5f1c017770a740a7b1c55174c09384749d1ce9def90ceed2a552929"
+  },
+  {
+    "repository_owner": "Ralane",
+    "repository_name": "HighliteTtsChat",
+    "asset_sha": "sha256:4eedb1ae7e656ed45e1bdf08f21aa67e9ae6bc4e057f23228a6a553684f69480"
+  },
+  {
+    "repository_owner": "MatthewStrouss",
+    "repository_name": "Item-Orders",
+    "asset_sha": "sha256:03d8969b8be693bc8b7c85ae5fdee3725f26e10951376bce7be46e3a4c6d7e4d"
+  },
+  {
+    "repository_owner": "Highl1te",
+    "repository_name": "Plugins",
+    "asset_sha": "sha256:2fe33fb1edf9bd9d3d4dccedce60b8e06877621c58696f9a1e0b2b2e9ed546f6"
+  },
+  {
+    "repository_owner": "Ralane",
+    "repository_name": "QuickActionMouseTooltip",
+    "asset_sha": "sha256:cf5ac6ad7e7731ff318b930bcdf08913d3b51f6dcbcd4b783e78604e4050734f"
+  },
+  {
+    "repository_owner": "Highl1te",
+    "repository_name": "Plugins",
+    "asset_sha": "sha256:b19673510a1a25b452602b793016d8660cc22baeceb309c4f3acb738e8c2751f"
+  }
+]

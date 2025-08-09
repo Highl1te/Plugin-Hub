@@ -1,5 +1,8 @@
 {
   "repository_owner": "Highl1te",
   "repository_name": "Plugins",
-  "asset_sha": "sha256:aae1b78d52713ba87d71984ce32f3bb1331e9e4c76a5a11cca369454e8fecec3"
+  "asset_sha": "sha256:aae1b78d52713ba87d71984ce32f3bb1331e9e4c76a5a11cca369454e8fecec3",
+  "display_name": "HP Alert",
+  "display_author": "Highl1te",
+  "display_description": "This is an example description of a plugin"
 }
