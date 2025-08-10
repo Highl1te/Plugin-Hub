@@ -4,6 +4,5 @@
   "asset_sha": "sha256:33daf201d476c20daa8c106e2ed98ec04c0bf60a691aa0e479ada51a63344ad5",
   "display_name": "Nameplates",
   "display_author": "Highl1te",
-  "display_description": "This is an example description of a plugin"
-  
+  "display_description": "Adds customizable overhead nameplates for players, npcs, and ground items."
 }
