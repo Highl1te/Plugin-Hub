@@ -1,5 +1,9 @@
 {
-    "repository_owner": "CodyBrunson",
-    "repository_name": "drop_log",
-    "asset_sha": "sha256:d9bc70e8b8ec092deff32393e1ee973d02c9ab6dca7f3a18d707fa167b9ac2f6"
+  "repository_owner": "CodyBrunson",
+  "repository_name": "drop-log",
+  "asset_sha": "sha256:d9bc70e8b8ec092deff32393e1ee973d02c9ab6dca7f3a18d707fa167b9ac2f6",
+  "display_name": "Drop Log",
+  "display_author": "Tomb/0rangeyouglad",
+  "display_description": "Track the drops you recieve from monsters."
+  
 }
