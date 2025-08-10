@@ -1,5 +1,8 @@
 {
     "repository_owner": "Ralane",
     "repository_name": "HighliteBankTabs",
-    "asset_sha": "sha256:52002995bd8d09cd043109fef8d4349295bab2f07ce0adc5373ff291810931b8"
+    "asset_sha": "sha256:138d5ee3c71ca4222661f1d195a71d32307e0392e4caa8da2e64e228403f8966",
+    "display_name": "Bank Tabs",
+    "display_author": "0rangeYouGlad",
+    "display_description":"Bank Tabs! Check the settings to enable customization."
 }
