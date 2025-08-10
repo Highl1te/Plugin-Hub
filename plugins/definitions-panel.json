@@ -1,5 +1,8 @@
 ﻿{
   "repository_owner": "CodyBrunson",
   "repository_name": "definitions-panel",
-  "asset_sha": "sha256:171218e384a1d9c1e191ba33e6dcaa462d4c99aa928236f9c60ed6d4f734795c"
+  "asset_sha": "sha256:171218e384a1d9c1e191ba33e6dcaa462d4c99aa928236f9c60ed6d4f734795c",
+  "display_name": "Definitions Panel",
+  "display_author": "JayArrowz/Tomb",
+  "display_description": "Allows you to search for any item/npc in the game."
 }

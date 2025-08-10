@@ -1,5 +1,8 @@
 {
   "repository_owner": "CodyBrunson",
   "repository_name": "ChatEnhancer",
-  "asset_sha": "sha256:ee1f9cfcc87fdd62087f2d389fa977cfa39c804ec52bd9ffe2177bf024e0ac33"
+  "asset_sha": "sha256:ee1f9cfcc87fdd62087f2d389fa977cfa39c804ec52bd9ffe2177bf024e0ac33",
+  "display_name": "Chat Enhancer",
+  "display_author": "JayArrowz/Tomb",
+  "display_description": "Makes the chat look a bit prettier."
 }
