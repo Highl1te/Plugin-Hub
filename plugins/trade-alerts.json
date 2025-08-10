@@ -4,5 +4,5 @@
   "asset_sha": "sha256:b19673510a1a25b452602b793016d8660cc22baeceb309c4f3acb738e8c2751f",
   "display_name": "Trade Alerts",
   "display_author": "Highl1te",
-  "display_description": "This is an example description of a plugin"
+  "display_description": "Allows you to recieve notifications and sound alerts whenever a trade request is recieved."
 }
