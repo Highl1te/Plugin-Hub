@@ -1,5 +1,8 @@
 {
   "repository_owner": "CodyBrunson",
   "repository_name": "Current-Status",
-  "asset_sha": "sha256:ff0ac771136674ec14625e39143fb237449c4c15b6f72176f80c5895103b8ff7"
+  "asset_sha": "sha256:ff0ac771136674ec14625e39143fb237449c4c15b6f72176f80c5895103b8ff7",
+  "display_name": "Current Status",
+  "display_author": "Highlite",
+  "display_description": "Shows your characters current status."
 }
