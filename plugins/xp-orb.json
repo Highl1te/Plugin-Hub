@@ -1,7 +1,7 @@
 {
   "repository_owner": "CodyBrunson",
-  "repository_name": "xp-orb",
-  "asset_sha": "sha256:bb0b02140dd5c9f2d9c3a10a413175bca3506635c304a883b1c65980cf287b5d",
+  "repository_name": "HL_Plugins",
+  "asset_sha": "sha256:693b93eeb42b84cbe293c3babbe21621ed88d0aaedb35a102d69418fe77b4cf8",
   "display_name": "XP Orb",
   "display_author": "JayArrowz/Tomb",
   "display_description": "Adds an XP orb with Session & Total XP"
