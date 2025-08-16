@@ -1,7 +1,7 @@
 {
     "repository_owner": "danzlarkin",
     "repository_name": "hl_autosprint",
-    "asset_sha": "sha256:f35ecfc590961bf5f5e0bc56d4fd18ca47943f9d5c7bd8f6a11df17edd908927",
+    "asset_sha": "sha256:07c40bda630f63152908a4d2a69aee05cb9c77bfbee97013054ab8577495f67d",
     "display_name": "AutoSprint",
     "display_description": "Automatically enables sprint on login."
 }
