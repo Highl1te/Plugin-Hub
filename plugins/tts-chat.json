@@ -1,8 +1,9 @@
 {
     "repository_owner": "Ralane",
     "repository_name": "HighliteTtsChat",
-    "asset_sha": "sha256:4eedb1ae7e656ed45e1bdf08f21aa67e9ae6bc4e057f23228a6a553684f69480",
+    "asset_sha": "sha256:4121ced0887e12992c633e49e739bdc0d0490be959ed0aad9f00c425d4610fbb",
     "display_name": "TTS Chat",
     "display_author": "0rangeYouGlad",
+    "discord_id": "@0rangeyouglad",
     "display_description":"Text-to-speech for chat. Uses your system's available voice packs."
 }

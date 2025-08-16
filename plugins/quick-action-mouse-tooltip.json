@@ -1,8 +1,9 @@
 {
     "repository_owner": "Ralane",
     "repository_name": "QuickActionMouseTooltip",
-    "asset_sha": "sha256:b3cb5f87af9756ce2cb3b78c4ed43c3dd108977cee7c7ac79ca478df072b6ab3",
+    "asset_sha": "sha256:3ccb6bc04c70b6f080ec92023ffbeb60b6f7e1aa4f04f9869239188b1622692a",
     "display_name": "Quick-Action Tooltip",
     "display_author": "0rangeYouGlad",
+    "discord_id": "@0rangeyouglad",
     "display_description":"Shows the current quick action (what you're about to click) as a tooltip"
 }
