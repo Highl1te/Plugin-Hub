@@ -1,5 +1,8 @@
 {
-    "repository_owner": "MatthewStrouss",
-    "repository_name": "Item-Orders",
-    "asset_sha": "sha256:03d8969b8be693bc8b7c85ae5fdee3725f26e10951376bce7be46e3a4c6d7e4d"
+  "repository_owner": "MatthewStrouss",
+  "repository_name": "Item-Orders",
+  "asset_sha": "sha256:13231246ae0aa3d68bbd26eb129c1ce95f23326afdb5296869821e8ed86a7f27",
+  "display_name": "Item Orders",
+  "display_author": "Yoyo2324",
+  "display_description": "Submit orders for items for others to see and fill."
 }
