@@ -1,5 +1,9 @@
 {
   "repository_owner": "CodyBrunson",
   "repository_name": "Idle-Alert",
-  "asset_sha": "sha256:ef35d903b1932a4dd0d2fd6e860799064dfac19fc82e2a26eb09f4ed471d813f"
+  "asset_sha": "sha256:b85773bb51005c3d249bd3113b58cebaa5cbea7b678e135d7002ba692538c095",
+  "display_name": "Idle Alert",
+  "display_author": "Highl1te",
+  "display_description": "Alerts you when you are about to go idle."
 }
+

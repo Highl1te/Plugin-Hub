@@ -1,5 +1,8 @@
 {
   "repository_owner": "Highl1te",
   "repository_name": "Plugins",
-  "asset_sha": "sha256:de3c1b4ed3ed02bb606183e965280f7ef2fc309893aa8057a8829e0c0e8dc294"
+  "asset_sha": "sha256:de3c1b4ed3ed02bb606183e965280f7ef2fc309893aa8057a8829e0c0e8dc294",
+  "display_name": "Map Plugin",
+  "display_author": "Highl1te",
+  "display_description": "Allows you to open a map (highlite.dev/map) with your position indicated on the map."
 }

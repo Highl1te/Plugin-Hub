@@ -1,5 +1,8 @@
 {
     "repository_owner": "CodyBrunson",
     "repository_name": "minimap-icons",
-    "asset_sha": "sha256:d51241cf72c6c3eaafc5914556308135a7a9c913c53d891d36b6eb51a41bf73a"
+    "asset_sha": "sha256:d51241cf72c6c3eaafc5914556308135a7a9c913c53d891d36b6eb51a41bf73a",
+    "display_name": "Minimap Icons",
+    "display_author": "JayArrowz/Tomb",
+    "display_description": "Puts icons for things on the minimap."
 }

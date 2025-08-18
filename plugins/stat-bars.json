@@ -1,5 +1,8 @@
 {
     "repository_owner": "SoggyPiggy",
     "repository_name": "Highlite-Stat-Bars-Plugin",
-    "asset_sha": "sha256:fefcb4062e8addf8deb245aab27391976d78f55ed379df9a4a8a039acb5abbc2"
+    "asset_sha": "sha256:36f71e333f82a54ebdcfe3fa9faff1d8492a27c99cd43e1f0298e1cc685044b4",
+    "display_name": "Stat Bars",
+    "display_author": "Soggypiggy",
+    "display_description": "XP progress bars beneath skills in the stats menu"
 }

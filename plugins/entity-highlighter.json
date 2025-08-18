@@ -1,5 +1,9 @@
 {
-    "repository_owner": "CodyBrunson",
-    "repository_name": "Entity-Highlighter",
-    "asset_sha": "sha256:e10f69b37448d70410c05f5fb25e7933852b89028ddaf4aec94a524330a572b2"
+  "repository_owner": "CodyBrunson",
+  "repository_name": "Entity-Highlighter",
+  "asset_sha": "sha256:57a51755745f493502761282e5dd24dfb968547be1eeef3beaff83e5aeab862b",
+  "display_name": "Entity Highlighter",
+  "display_author": "Tomb",
+  "display_description": "Puts little tags over the selected entities."
+  
 }
