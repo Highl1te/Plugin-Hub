@@ -1,8 +1,9 @@
 {
     "repository_owner": "Ralane",
     "repository_name": "HighliteImprovedSkillGuides",
-    "asset_sha": "sha256:3d9470febf4f6af51bd9e2e652fc102349c167d8cc2ba4141482d1e576ac1d6e",
+    "asset_sha": "sha256:f388cb5e9ca55bc49723a9db8aa178cd57ee589c348ca1584f02ec512d530c17",
     "display_name": "Skill Guide Details",
     "display_author": "0rangeYouGlad",
+    "discord_id": "@0rangeyouglad",
     "display_description":"Improved Skill Guides that show recipes, facilities, tools, XP, and other notes (thanks to JustATextBox, Snakeyes244, and RealSizzler for the help!)"
 }
