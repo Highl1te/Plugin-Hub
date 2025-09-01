@@ -1,7 +1,7 @@
 {
   "repository_owner": "valsekamerplant",
   "repository_name": "inventory_tooltips",
-  "asset_sha": "sha256:b1c0afaf206933b1599746dbe233ac10610cf645ba139abf3818389b244420d8",
+  "asset_sha": "sha256:80cf858bdb51586a61d55c3a535f8ab2538203cf0173120d4b79361e4f2b5527",
   "display_name": "Inventory Tooltips",
   "display_author": "Valse Kamerplant",
   "display_description": "Adds extra info to inventoy items liek relative stat changes and edible statusses"
