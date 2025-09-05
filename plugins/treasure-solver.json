@@ -1,1 +1,8 @@
-
+{
+  "repository_owner": "CodyBrunson",
+  "repository_name": "",
+  "asset_sha": "sha256:ee1f9cfcc87fdd62087f2d389fa977cfa39c804ec52bd9ffe2177bf024e0ac33",
+  "display_name": "Treasure Solver",
+  "display_author": "Highlite",
+  "display_description": "Adds a panel to help solver treasure maps faster."
+}
