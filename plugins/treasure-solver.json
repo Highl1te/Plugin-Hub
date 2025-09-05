@@ -1,7 +1,7 @@
 {
   "repository_owner": "CodyBrunson",
-  "repository_name": "",
-  "asset_sha": "sha256:ee1f9cfcc87fdd62087f2d389fa977cfa39c804ec52bd9ffe2177bf024e0ac33",
+  "repository_name": "HL_Plugins",
+  "asset_sha": "sha256:38a86ffd405fd94e377f91ca6a92ff2b10f6e7cd1faf114031f5c614c7fcfd9f",
   "display_name": "Treasure Solver",
   "display_author": "Highlite",
   "display_description": "Adds a panel to help solver treasure maps faster."
