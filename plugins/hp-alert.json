@@ -1,7 +1,7 @@
 {
   "repository_owner": "Highl1te",
   "repository_name": "Plugins",
-  "asset_sha": "sha256:66a8a64052453cd302a44789bc1a4f36ba938afa9d267c14cd46bdca2830358b",
+  "asset_sha": "sha256:aa6b079761bfe201b14fe44f0b7933ec9e44fb57f76d9aea190b1153c45b5b0a",
   "display_name": "HP Alert",
   "display_author": "Highl1te",
   "display_description": "Allows you to enable notifications and audio alerts for low HP."
