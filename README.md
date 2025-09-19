@@ -1,4 +1,5 @@
 # 🔌 Highlite Plugin Hub
+**As of 9/18/2025 Highl1te Development has been paused indefinitely**
 
 A centralized repository for managing and distributing Highlite plugins.
 
